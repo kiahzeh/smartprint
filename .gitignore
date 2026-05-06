@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+
+# Local runtime/cache files
+*.log
+*.tmp
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Environment/local secrets (if added later)
+.env
+.env.*
+
